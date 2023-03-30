@@ -1,0 +1,52 @@
+/*esto es un comentario en css*/
+/*aqui estamos aplicando estilo a TODAS las etiquetas h1, cambiandole el color*/
+
+
+
+h2{
+    color:rgb(54, 50, 51);
+       height: 50px;
+    width: 50%;
+}
+/*llamado a darlet estilo solo a una clase en particular*/
+.nuevaEtiqueta{
+    color:  #FF6F1D;
+    width: 80%;
+    margin-left: 250px;
+}
+
+
+
+.divGeneral
+{flex-direction: row; 
+Display:flex;
+}
+
+.divImagen{
+Display: inline-block; 
+}
+
+.divDescripción{
+margin-left: 100px;  
+Float: right;
+height: 200px
+}
+
+.parrafoDescripcion{
+    height:150 px}
+
+.container-fluid{
+    background: #cc2d9a;
+    
+}
+
+.nav-link active{
+        color: beige;
+}
+
+.footer{
+    background-color: #cc2d9a;
+    color: white;
+    text-align: center;
+    padding: 10ox;
+}
